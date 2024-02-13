@@ -1,7 +1,8 @@
 # C1-Maquettage_husseinbouik
 
 ## Travail à faire
-voir l'issue #1 pour plus de détails 
+voir le Travail à faire dans le theme M
+[#5](https://github.com/solicoders/evaluation/issues/5)
 ## Livrables
  
  
