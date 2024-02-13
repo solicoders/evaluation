@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# -*- coding: utf-8 -*-
 # List of names
 $names = @(
 "ADNANLH",
@@ -17,17 +17,17 @@ $names = @(
     )
 
     # Loop through the names and create README files
-    foreach ($name in $names) {
-New-Item -ItemType File -Path "C1-Maquettage_${name}.md"
+    for name in "${names[@]}"; do
+New-Item -ItemType File -Path "C2-Base-de-données_${name}.md"
 Write-Output "
-# C1-Maquettage_${name}
+# C2-Base-de-données_${name}
 
 ## Travail à faire
-Voir le travail a faire dans le theme Maquettage 
+Voir le travail a faire dans le theme Base de donnees 
 [Maquettage](https://github.com/solicoders/evaluation/issues/5)
 
 ## Livrables
-- docs/C1-Maquettage/C1-Maquettage_${name}.md 
- " > "C1-Maquettage_${name}.md"
+- docs/C2-Base-de-données/C2-Base-de-données_${name}.md 
+ " > "C2-Base-de-données_${name}.md"
     }
 
