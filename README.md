@@ -23,7 +23,6 @@ Le backlog est une liste ordonées des tâches
   - [C1-Maquettage_Yasmine-daifane.md](./Backlog/C1-Maquettage/C1-Maquettage_Yasmine-daifane.md) 
   - [C1-Maquettage_zaani12.md](./Backlog/C1-Maquettage/C1-Maquettage_zaani12.md) 
 - **C2-Base de données** 
-  - [0.C2-Base-de-données_husseinbouik.20.md](./Backlog/C2-Base de données/0.C2-Base-de-données_husseinbouik.20.md) 
   - [C2-Base-de-données_AdnanBennasare.md](./Backlog/C2-Base de données/C2-Base-de-données_AdnanBennasare.md) 
   - [C2-Base-de-données_ADNANLH.md](./Backlog/C2-Base de données/C2-Base-de-données_ADNANLH.md) 
   - [C2-Base-de-données_aminaassaid1.md](./Backlog/C2-Base de données/C2-Base-de-données_aminaassaid1.md) 
@@ -38,7 +37,6 @@ Le backlog est une liste ordonées des tâches
   - [C2-Base-de-données_Yasmine-daifane.md](./Backlog/C2-Base de données/C2-Base-de-données_Yasmine-daifane.md) 
   - [C2-Base-de-données_zaani12.md](./Backlog/C2-Base de données/C2-Base-de-données_zaani12.md) 
 - **C3-Back-end** 
-  - [0.C3-Back-end_husseinbouik.21.md](./Backlog/C3-Back-end/0.C3-Back-end_husseinbouik.21.md) 
   - [C3-Back-end_AdnanBennasare.md](./Backlog/C3-Back-end/C3-Back-end_AdnanBennasare.md) 
   - [C3-Back-end_ADNANLH.md](./Backlog/C3-Back-end/C3-Back-end_ADNANLH.md) 
   - [C3-Back-end_aminaassaid1.md](./Backlog/C3-Back-end/C3-Back-end_aminaassaid1.md) 
@@ -53,7 +51,6 @@ Le backlog est une liste ordonées des tâches
   - [C3-Back-end_Yasmine-daifane.md](./Backlog/C3-Back-end/C3-Back-end_Yasmine-daifane.md) 
   - [C3-Back-end_zaani12.md](./Backlog/C3-Back-end/C3-Back-end_zaani12.md) 
 - **C4-Collaboration-gestion-de-projet** 
-  - [0.C4-Collaboration-gestion-de-projet_husseinbouik.22.md](./Backlog/C4-Collaboration-gestion-de-projet/0.C4-Collaboration-gestion-de-projet_husseinbouik.22.md) 
   - [C4-Collaboration-gestion-de-projet_AdnanBennasare.md](./Backlog/C4-Collaboration-gestion-de-projet/C4-Collaboration-gestion-de-projet_AdnanBennasare.md) 
   - [C4-Collaboration-gestion-de-projet_ADNANLH.md](./Backlog/C4-Collaboration-gestion-de-projet/C4-Collaboration-gestion-de-projet_ADNANLH.md) 
   - [C4-Collaboration-gestion-de-projet_aminaassaid1.md](./Backlog/C4-Collaboration-gestion-de-projet/C4-Collaboration-gestion-de-projet_aminaassaid1.md) 
@@ -68,7 +65,6 @@ Le backlog est une liste ordonées des tâches
   - [C4-Collaboration-gestion-de-projet_Yasmine-daifane.md](./Backlog/C4-Collaboration-gestion-de-projet/C4-Collaboration-gestion-de-projet_Yasmine-daifane.md) 
   - [C4-Collaboration-gestion-de-projet_zaani12.md](./Backlog/C4-Collaboration-gestion-de-projet/C4-Collaboration-gestion-de-projet_zaani12.md) 
 - **C5-Mobile** 
-  - [0.C5-Mobile_husseinbouik.24.md](./Backlog/C5-Mobile/0.C5-Mobile_husseinbouik.24.md) 
   - [C5-Mobile_AdnanBennasare.md](./Backlog/C5-Mobile/C5-Mobile_AdnanBennasare.md) 
   - [C5-Mobile_ADNANLH.md](./Backlog/C5-Mobile/C5-Mobile_ADNANLH.md) 
   - [C5-Mobile_aminaassaid1.md](./Backlog/C5-Mobile/C5-Mobile_aminaassaid1.md) 
@@ -83,7 +79,6 @@ Le backlog est une liste ordonées des tâches
   - [C5-Mobile_Yasmine-daifane.md](./Backlog/C5-Mobile/C5-Mobile_Yasmine-daifane.md) 
   - [C5-Mobile_zaani12.md](./Backlog/C5-Mobile/C5-Mobile_zaani12.md) 
 - **C6-Test** 
-  - [0.C6-Test_husseinbouik.25.md](./Backlog/C6-Test/0.C6-Test_husseinbouik.25.md) 
   - [C6-Test_AdnanBennasare.md](./Backlog/C6-Test/C6-Test_AdnanBennasare.md) 
   - [C6-Test_ADNANLH.md](./Backlog/C6-Test/C6-Test_ADNANLH.md) 
   - [C6-Test_aminaassaid1.md](./Backlog/C6-Test/C6-Test_aminaassaid1.md) 
@@ -98,7 +93,6 @@ Le backlog est une liste ordonées des tâches
   - [C6-Test_Yasmine-daifane.md](./Backlog/C6-Test/C6-Test_Yasmine-daifane.md) 
   - [C6-Test_zaani12.md](./Backlog/C6-Test/C6-Test_zaani12.md) 
 - **C7-Deploiement** 
-  - [0.C7-Deploiement_husseinbouik.26.md](./Backlog/C7-Deploiement/0.C7-Deploiement_husseinbouik.26.md) 
   - [C7-Deploiement_AdnanBennasare.md](./Backlog/C7-Deploiement/C7-Deploiement_AdnanBennasare.md) 
   - [C7-Deploiement_ADNANLH.md](./Backlog/C7-Deploiement/C7-Deploiement_ADNANLH.md) 
   - [C7-Deploiement_aminaassaid1.md](./Backlog/C7-Deploiement/C7-Deploiement_aminaassaid1.md) 
@@ -112,7 +106,6 @@ Le backlog est une liste ordonées des tâches
   - [C7-Deploiement_Soufiane-Boukhar.md](./Backlog/C7-Deploiement/C7-Deploiement_Soufiane-Boukhar.md) 
   - [C7-Deploiement_Yasmine-daifane.md](./Backlog/C7-Deploiement/C7-Deploiement_Yasmine-daifane.md) 
   - [C7-Deploiement_zaani12.md](./Backlog/C7-Deploiement/C7-Deploiement_zaani12.md) 
-- **sous-tâche** 
 - **thème** 
   - [0.C1-Maquettage.5.md](./Backlog/thème/0.C1-Maquettage.5.md) 
   - [0.C2-Base-de-données.6.md](./Backlog/thème/0.C2-Base-de-données.6.md) 
