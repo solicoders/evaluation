@@ -1,5 +1,5 @@
 # Maquettage 
 ## 	Description :
- -   Maquetter une application mobile
+ -   Maquetter une application 
 ## travaille a Faire 
 - 
