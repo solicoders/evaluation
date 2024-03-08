@@ -1,5 +1,5 @@
 #!/bin/bash
-
+ 
 # List of names
 names=(
     "husseinbouik"
