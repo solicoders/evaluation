@@ -10,8 +10,6 @@
 
 ## Réference
 
-
-
 ## Livrable
 
 [Issue](https://github.com/labs-web/prototype/issues/42)
