@@ -5,9 +5,7 @@
 - Devloper  une interface  pour la  gestion des taches.
 
 ## Niveaux de compétence
-
 - Imiter
-
 ## Réference
 
 ## Livrable
