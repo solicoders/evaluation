@@ -1,6 +1,5 @@
 ## C6-Test
 
-
 ## Niveau imiter
   
 -  Travail à faire 1 :
