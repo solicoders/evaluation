@@ -7,7 +7,6 @@
 
    -   [Rapport](https://cnmh.github.io/besoin/empathie-social/rapport.html)
   
-
 ## Niveau adapter 
 
 - Travail à faire 2 : 
