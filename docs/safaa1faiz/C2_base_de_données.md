@@ -6,7 +6,6 @@ package : safaa1faiz
 
 ### Imiter
 
-
 - Création de la base de données pour la gestion des formations 
 
 - [GestionCompetences base donnees]()
