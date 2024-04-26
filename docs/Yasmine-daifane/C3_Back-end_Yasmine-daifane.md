@@ -10,6 +10,7 @@ package : Yasmine-daifane
      - Prototype : interface Utilisateur (Member hérite from User )
   
    - [Issue Autorisation utilisateur backend ](https://github.com/labs-web/prototype/issues/41)
+  
 ### Adapter 
  - Travail à faire 2 :
   
