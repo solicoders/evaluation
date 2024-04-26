@@ -20,4 +20,5 @@ package : Yasmine-daifane
 - Travail à faire 3 :
   
   - developper l'interface de l'accueil  pour Solilms 
+  - 
 
