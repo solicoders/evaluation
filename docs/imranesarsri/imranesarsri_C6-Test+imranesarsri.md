@@ -3,8 +3,6 @@ order : 117
 package : imranesarsri
 ---
 
-# Imrane sarsri
-
 ## C6-Test
 
 ### imiter :
