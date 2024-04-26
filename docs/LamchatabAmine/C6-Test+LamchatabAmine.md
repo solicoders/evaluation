@@ -1,22 +1,19 @@
-# C6-Test_LamchatabAmine 
+---
+order : 96
+package : LamchatabAmine
+---
 
 
+## C6-Test
 
+### Imiter
 
-- Créez des tests unitaires pour les opérations CRUD du prototype de gestion controllers .
+-  Créez des tests unitaires parameter Etablissemt dans le projet gestion personnels.
 
-## Niveaux de compétence
+### Adapter
 
-- Imiter
+-  Créez des tests unitaires de package Absence dans le projet gestion personnels.
 
-## Réference
+### Transposer
 
-
-[unit test](https://laravel.com/docs/11.x/testing)
-
-
-## Livrable
-
-
-[Issue](https://github.com/labs-web/prototype/issues/195)
-[Gestion Controllers Test](https://github.com/labs-web/prototype/blob/develop/app/tests/Feature/Autorisation/GestionControllersTest.php)
+- Ajouter test en utilisant dusk .
