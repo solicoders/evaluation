@@ -1,13 +1,13 @@
-# C1-Maquettage
+## C1-Maquettage
 
-## Niveau imiter    
+### Imiter    
 -  Travail à faire 1 :
   
      - [Issue empathie de pôle social](https://github.com/cnmh/besoin/issues/76)
 
    -   [Rapport](https://cnmh.github.io/besoin/empathie-social/rapport.html)
   
-## Niveau adapter 
+### Adapter 
 
 - Travail à faire 2 : 
 -   faire l'empathie du GestionBriefValidation
