@@ -1,30 +1,24 @@
-# C1-Maquettage_Assaid-Amina
+---
+order : 1
+package : aminaassaid1
+---
+# Assaid Amina
 
-## Niveau imiter
+## C1-Maquettage
 
-### Travail à faire
+### Imiter
 
 - Carte d'empathie avec le responsable de formation en gestion des compétences
 - Idéation
 - Définir le problème
 - Maquette de gestion des compétences
 
-### Livrable
-
 - [Empathie avec responsable de formation](https://github.com/solicoders/soli-lms/issues/35)
   
-## Niveau adapter
-
-### Travail à faire
+### Adapter
 
 - Mise à jour de la carte d'empathie
 
-### Livrable
-
-## Niveau Transposer
-
-### Travail à faire
+### Transposer
 
 - Persona
-
-## Livrable
