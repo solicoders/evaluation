@@ -2,7 +2,7 @@
 
 ## Travail à faire
 
-- Ajouter back-end de authorization les controllers 
+- Ajouter back-end de parameter etablissement gestion personnel
 
 ## Niveaux de compétence
 
@@ -14,5 +14,5 @@
 
 ## Livrable
 
-[Issue](https://github.com/labs-web/prototype/issues/195)
-[branch](https://github.com/labs-web/prototype/tree/195-autorisation_gestion-controllers-backend-1)
+[Issue](https://github.com/solicoders/gestion-personnels/issues/63)
+[branch](https://github.com/solicoders/gestion-personnels/tree/63-gestionparametres_etablissement)
