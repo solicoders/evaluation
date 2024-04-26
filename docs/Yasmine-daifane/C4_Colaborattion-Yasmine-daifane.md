@@ -24,7 +24,7 @@ package : Yasmine-daifane
 
 - Travail à faire 3 :
   
- 
+ - gestion de projet Solilms  
 
 
   
