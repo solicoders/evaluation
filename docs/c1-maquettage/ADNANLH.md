@@ -1,7 +1,7 @@
 # c1 maquettage ADNANLH
-## Les livrables
 
-### Niveau imiter
+
+### Imiter
 
 Travail à faire :
 - [empathie-orthophoniste](https://github.com/cnmh/besoin/issues/121)

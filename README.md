@@ -80,19 +80,19 @@ Le backlog est une liste ordonées des tâches
   - [0.C5-Mobile+Yasmine-daifane.176.md](./Backlog/C5-Mobile/0.C5-Mobile+Yasmine-daifane.176.md) 
   - [0.C5-Mobile+zaani12.177.md](./Backlog/C5-Mobile/0.C5-Mobile+zaani12.177.md) 
 - **C6-Test** 
-  - [0.C6-Test+AdnanBennasare.178.md](./Backlog/C6-Test/0.C6-Test+AdnanBennasare.178.md) 
-  - [0.C6-Test+ADNANLH.179.md](./Backlog/C6-Test/0.C6-Test+ADNANLH.179.md) 
-  - [0.C6-Test+aminaassaid1.180.md](./Backlog/C6-Test/0.C6-Test+aminaassaid1.180.md) 
-  - [0.C6-Test+grain03.210.md](./Backlog/C6-Test/0.C6-Test+grain03.210.md) 
-  - [0.C6-Test+hamidAchaou.182.md](./Backlog/C6-Test/0.C6-Test+hamidAchaou.182.md) 
-  - [0.C6-Test+husseinbouik.183.md](./Backlog/C6-Test/0.C6-Test+husseinbouik.183.md) 
-  - [0.C6-Test+imranesarsri.184.md](./Backlog/C6-Test/0.C6-Test+imranesarsri.184.md) 
-  - [0.C6-Test+Jalil-Betroji.112.md](./Backlog/C6-Test/0.C6-Test+Jalil-Betroji.112.md) 
-  - [0.C6-Test+LamchatabAmine.186.md](./Backlog/C6-Test/0.C6-Test+LamchatabAmine.186.md) 
-  - [0.C6-Test+Safaa1faiz.187.md](./Backlog/C6-Test/0.C6-Test+Safaa1faiz.187.md) 
-  - [0.C6-Test+Soufiane-Boukhar.188.md](./Backlog/C6-Test/0.C6-Test+Soufiane-Boukhar.188.md) 
-  - [0.C6-Test+Yasmine-daifane.189.md](./Backlog/C6-Test/0.C6-Test+Yasmine-daifane.189.md) 
-  - [0.C6-Test+zaani12.190.md](./Backlog/C6-Test/0.C6-Test+zaani12.190.md) 
+  - [0.AdnanBennasare_C6-Test+AdnanBennasare.178.md](./Backlog/C6-Test/0.AdnanBennasare_C6-Test+AdnanBennasare.178.md) 
+  - [0.ADNANLH_C6-Test+ADNANLH.179.md](./Backlog/C6-Test/0.ADNANLH_C6-Test+ADNANLH.179.md) 
+  - [0.aminaassaid1_C6-Test+aminaassaid1.180.md](./Backlog/C6-Test/0.aminaassaid1_C6-Test+aminaassaid1.180.md) 
+  - [0.Boukhar_C6-Test+Soufiane-.188.md](./Backlog/C6-Test/0.Boukhar_C6-Test+Soufiane-.188.md) 
+  - [0.grain03_C6-Test+grain03.210.md](./Backlog/C6-Test/0.grain03_C6-Test+grain03.210.md) 
+  - [0.hamidAchaou_C6-Test+hamidAchaou.182.md](./Backlog/C6-Test/0.hamidAchaou_C6-Test+hamidAchaou.182.md) 
+  - [0.husseinbouik_C6-Test+husseinbouik.183.md](./Backlog/C6-Test/0.husseinbouik_C6-Test+husseinbouik.183.md) 
+  - [0.imranesarsri_C6-Test+imranesarsri.184.md](./Backlog/C6-Test/0.imranesarsri_C6-Test+imranesarsri.184.md) 
+  - [0.Jalil-Betroji_C6-Test+Jalil-Betroji.112.md](./Backlog/C6-Test/0.Jalil-Betroji_C6-Test+Jalil-Betroji.112.md) 
+  - [0.LamchatabAmine_C6-Test+.186.md](./Backlog/C6-Test/0.LamchatabAmine_C6-Test+.186.md) 
+  - [0.Safaa1faiz_C6-Test+.187.md](./Backlog/C6-Test/0.Safaa1faiz_C6-Test+.187.md) 
+  - [0.Yasmine-daifane_C6-Test+.189.md](./Backlog/C6-Test/0.Yasmine-daifane_C6-Test+.189.md) 
+  - [0.zaani12_C6-Test+zaani12.190.md](./Backlog/C6-Test/0.zaani12_C6-Test+zaani12.190.md) 
 - **C7-Deploiement** 
 - **thème** 
   - [0.C1-Maquettage.5.md](./Backlog/thème/0.C1-Maquettage.5.md) 
@@ -102,7 +102,7 @@ Le backlog est une liste ordonées des tâches
   - [0.C5-mobile.9.md](./Backlog/thème/0.C5-mobile.9.md) 
   - [0.C6-test.10.md](./Backlog/thème/0.C6-test.10.md) 
   - [0.C7-deploiement.11.md](./Backlog/thème/0.C7-deploiement.11.md) 
-## Livrables 
+ 
 
  
 
