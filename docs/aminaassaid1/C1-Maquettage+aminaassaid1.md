@@ -1,5 +1,5 @@
 ---
-order : 1
+order : 11
 package : aminaassaid1
 ---
 # Assaid Amina
@@ -21,4 +21,10 @@ package : aminaassaid1
 
 ### Transposer
 
+<<<<<<< HEAD
 - Persona
+- UI / UX
+=======
+- Persona 
+-  UI/UX
+>>>>>>> develop
