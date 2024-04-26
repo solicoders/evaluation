@@ -1,6 +1,6 @@
 # C6-Test_Jalil-Betroji
 
-## Travail à faire
+
 
 - Créez une interface crud pour un parametre sur le projet de gestion personnels avec l'autorisation 
 
