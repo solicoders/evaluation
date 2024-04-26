@@ -1,33 +1,32 @@
-# C6-Test aminaassaid
+---
+order : 16
+package : aminaassaid1
+---
+## C6-Test aminaassaid
 
 
 
-## Niveau imiter
+### Imiter
 
-### Travail à fairer
 
 - Unit Test Prototype : Gestion action
 
-### Livrable
+
 
 - [Autorisation gestion actions back end  ](https://github.com/labs-web/prototype/issues/191)
   
-## Niveau adapter
-
-### Travail à fairer
+### Adapter
 
 - Unit Test SoliLMS : Gestion Compétences
   
-### Livrable
 
 
-## Niveau Transposer
 
-### Travail à fairer
+### Transposer
 
 - Browser Test SoliLMS : Gestion Compétences
 
-### Livrable
+
 
 
 
