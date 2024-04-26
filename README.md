@@ -102,7 +102,7 @@ Le backlog est une liste ordonées des tâches
   - [0.C5-mobile.9.md](./Backlog/thème/0.C5-mobile.9.md) 
   - [0.C6-test.10.md](./Backlog/thème/0.C6-test.10.md) 
   - [0.C7-deploiement.11.md](./Backlog/thème/0.C7-deploiement.11.md) 
- 
+## Livrables 
 
  
 
