@@ -14,7 +14,8 @@
 ## Niveau adapter
 
 -  Travail à faire  :
-   -  empathie du formateur de projet Soli-lms 
+   -  empathie du formateur de projet Soli-lms
+   -  cas d'utilisation du projet Soli-lms Sprint 1
    -  maquette du projet Soli-lms Sprint 1
 - **Livrable**
      - [Issue du maquette ]()
