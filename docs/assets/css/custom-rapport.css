@@ -10,6 +10,10 @@
     font-size: 16.0pt !important;
 }
 
-h2{
-    margin-bottom: 2pt;
+h1{
+    padding-bottom: 25pt;
+
+}
+h2,h3,h4,h5,h6{
+    padding-bottom: 2pt;
 }
