@@ -27,6 +27,8 @@ package : aminaassaid1
 
 ### Transposer
 
+- Ajouter Laravel à l'application mobile
+
 
 
 
