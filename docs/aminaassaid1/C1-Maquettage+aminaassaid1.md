@@ -1,6 +1,7 @@
 ---
 order : 11
 package : aminaassaid1
+competence: c1
 ---
 # Assaid Amina
 

@@ -1,6 +1,7 @@
 ---
 order : 91
 package : LamchatabAmine
+competence: c1
 ---
 
 # Lamchatab amine

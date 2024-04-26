@@ -1,6 +1,7 @@
 ---
 order : 111
 package : imranesarsri
+competence: c1
 ---
 
 # Imrane sarsri

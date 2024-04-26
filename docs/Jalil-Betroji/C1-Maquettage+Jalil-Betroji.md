@@ -1,6 +1,7 @@
 ---
 order : 31
 package : jalilbetroji
+competence: c1
 ---
 
 ## C1-Maquettage
