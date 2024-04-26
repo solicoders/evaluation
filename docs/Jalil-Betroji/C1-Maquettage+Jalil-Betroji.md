@@ -14,9 +14,12 @@ package : jalilbetroji
 [Rapport](https://solicoders.github.io/gestion-personnels/empathie-chef-de-formation/rapport.html)
 [Présentation](https://solicoders.github.io/gestion-personnels/empathie-chef-de-formation/presentation.html#/1)
 
-## Adapter
+### Adapter
 
 - maquette gestion personnels
+
+[Issue](https://github.com/solicoders/gestion-personnels/issues/30)
+[Issue](https://github.com/solicoders/gestion-personnels/tree/30-maquette-personnels)
 
 ### Transposer
 
