@@ -1,10 +1,13 @@
-# C6-Test aminaassaid
+---
+order : 16
+package : aminaassaid1
+---
+## C6-Test aminaassaid
 
 
 
 ### Imiter
 
-#
 
 - Unit Test Prototype : Gestion action
 
@@ -14,16 +17,12 @@
   
 ### Adapter
 
-#
-
 - Unit Test SoliLMS : Gestion Compétences
   
 
 
 
 ### Transposer
-
-#
 
 - Browser Test SoliLMS : Gestion Compétences
 
