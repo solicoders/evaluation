@@ -1,6 +1,6 @@
-# C1-Maquettage
+## C1-Maquettage
 
-## Niveau imiter
+### Imiter
   
 -  Travail à faire 1 :
   
