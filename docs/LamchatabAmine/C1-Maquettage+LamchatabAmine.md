@@ -16,9 +16,7 @@ package : LamchatabAmine
 
 [Rapport empathie directeur](https://solicoders.github.io/gestion-personnels/empathie-directeur/rapport.html)
 
-
 ### Adapter
-
 
 ### Transposer
 
