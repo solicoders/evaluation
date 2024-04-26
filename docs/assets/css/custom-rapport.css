@@ -1,0 +1,11 @@
+.package_name {
+    color: grey;
+    float: right;
+    top: 8px;
+    position: relative;
+
+}
+
+.package_name p {
+    font-size: 16.0pt !important;
+}
