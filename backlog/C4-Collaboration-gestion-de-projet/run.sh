@@ -22,12 +22,12 @@ for name in "${names[@]}"; do
     echo "
 # C4-Collaboration-gestion-de-projet_${name}
 
-## Travail à faire
+
 Voir le travail à faire dans le thème Collaboration gestion de projet
 [Collaboration gestion de projet](https://github.com/solicoders/evaluation/issues/8)
 
 
-## Livrables
+
 - docs/C4-Collaboration-gestion-de-projet/C4-Collaboration-gestion-de-projet_${name}.md 
  " > "C4-Collaboration-gestion-de-projet_${name}.md"
 done 

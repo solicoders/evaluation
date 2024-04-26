@@ -5,7 +5,7 @@
 		"prefix": "backlog-item",
 		"body": [
 			"# $1",
-			"## Travail à faire";
+			"";
 			"- "
 			"## Livrable";
 			"- /docs/$2/$2.md";
