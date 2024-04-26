@@ -1,18 +1,22 @@
 # C3-Back-end_Grain-Reda
 
+## Niveau imiter
 
+- Travail à faire:
+  - Ajouter un backend d'autorisation de Rôle
 
-- Ajouter un backend d'autorisation de Rôle
+- Réference:
+  - [Back-end](https://laravel.com/)
 
-## Niveaux de compétence
+- Livrable:
+  - [Issue](https://github.com/labs-web/prototype/issues/197)
+  - [branch](https://github.com/labs-web/prototype/tree/197-autorisation_gestion-roles-backend)
 
-- Imiter
+## Niveau adapter
 
-## Réference
+- Travail à faire:
+  - Ajouter Backend de Gestion RH dans SoliLMS
 
-[Back-end](https://laravel.com/)
-
-## Livrable
-
-[Issue](https://github.com/labs-web/prototype/issues/197)
-[branch](https://github.com/labs-web/prototype/tree/197-autorisation_gestion-roles-backend)
+- Livrable:
+  - [Issue]()
+  - [branch]()
