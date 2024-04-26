@@ -1,13 +1,14 @@
-# C1-Maquettage_Soufiane-Boukhar
+---
+order : 51
+package : Soufiane-Boukhar
+---
+## C1-Maquettage
 
-## Travail à faire
+### Imiter
 
 - Création Fichier Markdown pour présenter carte d'empathie de Médecine générale du centre CNMH.
 - Création Fichier Markdown pour présenter définir de problème
 - Trouver des solutions pour résoudre le problème défini.
-
-## Livrables
-
 - [Issue d'empathie de Médecine générale](https://github.com/cnmh/besoin/issues/114)
 - [Issue définir de problème](https://github.com/cnmh/besoin/issues/2)
 - [Issue d'idéation](https://github.com/cnmh/besoin/issues/3)
@@ -17,3 +18,7 @@
 - [Présentation définir de problème](https://cnmh.github.io/besoin/definir-probleme/presentation.html#/)
 - [Rapport d'idéation](https://cnmh.github.io/besoin/ideation/rapport.html)
 - [Présentation d'idéation](https://cnmh.github.io/besoin/ideation/presentation.html#/)
+ 
+### Transposer
+
+- Empathie avec Pole medicale
