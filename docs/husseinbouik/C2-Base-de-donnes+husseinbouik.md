@@ -7,7 +7,7 @@
 
    - [Issue](https://github.com/labs-web/prototype/issues/191)
    - [Repository](https://github.com/labs-web/prototype)
-   -   [Rapport](https://labs-web.github.io/prototype/documentation/authorization/)
+   - [Rapport](https://labs-web.github.io/prototype/documentation/authorization/)
 
 ### adapter
 
