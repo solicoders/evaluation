@@ -12,8 +12,6 @@ package : Yasmine-daifane
   - [Issue Autorisation utilisateur backend ](https://github.com/labs-web/prototype/issues/41)
 
 ### Adapter 
-
-  
   -   fair le test pour  Validation de Brief    
 
 ### Transposer
