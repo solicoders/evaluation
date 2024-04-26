@@ -1,17 +1,20 @@
-# C6-Test Grain Reda
+---
+order : 86
+package : grain03
+---
 
-## Imiter
+## C6-Test
+
+### Imiter
   
-- Travail à faire:
-  - Prototype : Unit test pour Gestion Roles
-
+- Prototype : Unit test pour Gestion Roles
 [Issue](https://github.com/labs-web/prototype/issues/197)
 [branch](https://github.com/labs-web/prototype/tree/197-autorisation_gestion-roles-backend)
 
 ### Adapter
 
-- Travail à faire 2 :
-  - SoliLMS: fair le test pour  Validation de Brief
-
+- SoliLMS: fair le unit test pour Gestion RH
 [Issue]()
 [branch]()
+
+### Transposer
