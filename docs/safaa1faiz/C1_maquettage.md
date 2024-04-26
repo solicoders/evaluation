@@ -1,36 +1,24 @@
+---
+order : 71
+package : safaa1faiz
+---
+# Faiz Safaa
 
+## C1-Maquettage
 
+### Imiter
 
-# C1-Maquettage safaa faiz
+- Carte d'empathie avec le formateur pour la gestion des formations
+- Idéation
+- Définir le problème
 
-
-## Niveau imiter
+- [Empathie avec responsable de formation]()
   
--  Travail à faire 1 :
-   -  Carte d'empathie avec le formateur sur la gestion des formation dans le projet Soli-lms
-   -  Idéation
-   -  Définir le probléme
-   -  Maquettage avec Adminlte
-  
-- **Livrable**
-     - [Issue]()
-     - [Repository]()
-     -   [Rapport]()
+### Adapter
 
-## Niveau adapter
+- Mise à jour de la carte d'empathie
+- Maquette de gestion des formations
 
--  Travail à faire  :
-   
-- **Livrable**
-     - [Issue]()
-     - [Repository]()
-     -   [Rapport]()
-  
-## Niveau transposer
+### Transposer
 
--  Travail à faire  :
-   -  
-- **Livrable**
-     - [Issue]()
-     - [Repository]()
-     -   [Rapport]()
+- Persona
