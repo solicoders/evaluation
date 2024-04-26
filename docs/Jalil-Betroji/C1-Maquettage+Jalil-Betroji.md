@@ -3,8 +3,6 @@ order : 31
 package : jalilbetroji
 ---
 
-# Jalil Betroji
-
 ## C1-Maquettage
 
 ### Imiter
