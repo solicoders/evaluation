@@ -1,6 +1,6 @@
-# C1-Maquettage safaa faiz
+## C1-Maquettage safaa faiz
 
-## Niveau imiter
+### Imiter
   
 -  Travail à faire 1 :
   
@@ -9,7 +9,7 @@
      - [Rapport]()
 
  
-## Niveau adapter
+### Adapter
 
 -  Travail à faire 1 :
    
