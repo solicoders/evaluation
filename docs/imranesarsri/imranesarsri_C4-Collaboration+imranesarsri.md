@@ -12,4 +12,3 @@ package : imranesarsri
 
 ### Adapter :
 - Élaboration de tableaux de ordre de mission pour chaque tâche (issues), avec indication de leur état d'avancement: Gestion personnels
-
