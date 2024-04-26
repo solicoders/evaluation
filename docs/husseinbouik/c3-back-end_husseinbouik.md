@@ -16,7 +16,6 @@
 -  Travail à faire  :
    -  developer la partie backend de  creation des brief projets pour le projet Soli-lms Sprint 1
    -  diagramme de classe de soli-lms Sprint 1
-   -  Creation de base de donnee de soli-lms Sprint 1
 - **Livrable**
      - [Issue]()
      - [Repository]()
