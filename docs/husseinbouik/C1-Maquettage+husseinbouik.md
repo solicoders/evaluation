@@ -1,8 +1,14 @@
-# C1-Maquettage husseinbouik
+---
+order : 1
+package : husseinbouik
+---
 
-## Niveau imiter
+# Hussein Bouik
+
+## C1-Maquettage
+
   
--  Travail à faire 1 :
+### Imiter
    -  empathie de psychologue du projet CNMH 
   
 - **Livrable**
@@ -11,7 +17,7 @@
 
   -   [Rapport](https://cnmh.github.io/besoin/empathie-psychologue/rapport.html)
 
-## Niveau adapter
+### Adapter
 
 -  Travail à faire  :
    -  empathie du formateur de projet Soli-lms
@@ -22,7 +28,7 @@
      - [Repository]()
      -   [Rapport]()
   
-## Niveau transposer
+### Transposer
 
 -  Travail à faire  :
    -  maquette du projet Soli-lms Sprint 3
