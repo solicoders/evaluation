@@ -1,15 +1,12 @@
 ---
-order : 15
-package : aminaassaid1
+order : 75
+package : safaa1faiz
 ---
-## C5-Mobile aminaassaid
-
-
+## C5-Mobile safaa1faiz
 
 ### Imiter
 
-
-
+- Application des exercices dans la formation 
 - Suivie de formation android developer
 
 
@@ -26,8 +23,6 @@ package : aminaassaid1
 
 
 ### Transposer
-
-- Ajouter Laravel à l'application mobile
 
 
 
