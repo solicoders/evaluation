@@ -1,3 +1,8 @@
+---
+order : 26
+package : Yasmine-daifane
+---
+
 ## C6-Test
 
 ### Imiter
