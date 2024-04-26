@@ -1,6 +1,6 @@
-# C1-Maquettage_Jalil-Betroji
+## C1-Maquettage_Jalil-Betroji
 
-## Travail à faire
+
 
 - Création d'une maquette d'application gestion personnels en collaboration
 

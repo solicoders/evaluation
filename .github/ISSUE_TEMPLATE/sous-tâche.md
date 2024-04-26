@@ -7,10 +7,10 @@ assignees: ''
 
 ---
 
-## Travail à faire
+
 
 ## Tâche mère
 
-## Livrables
+
 - docs/
 
