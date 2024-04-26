@@ -11,7 +11,6 @@
  - Travail à faire 2 :
   
   - developer la partie du  Validation de Brief    pour le projet Solilms 
-
 ## Niveau Transposer
 
 - Travail à faire 3 :
