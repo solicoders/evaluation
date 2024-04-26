@@ -22,7 +22,7 @@ for name in "${names[@]}"; do
     echo "
 # C7-Deploiement_${name}
 
-## Travail à faire
+
 Voir le travail à faire dans le thème Deploiement
 [Deplorables
 - docs/C7-Deploiement/C7-Deploiement_${name}.md 

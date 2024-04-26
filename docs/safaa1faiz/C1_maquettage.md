@@ -1,3 +1,4 @@
+
 ---
 order : 71
 package : safaa1faiz
@@ -13,12 +14,17 @@ package : safaa1faiz
 - Définir le problème
 
 - [Empathie avec responsable de formation]()
+
   
 ### Adapter
 
 - Mise à jour de la carte d'empathie
 - Maquette de gestion des formations
 
+
 ### Transposer
+
+ 
+- Persona
 
 - Persona 
