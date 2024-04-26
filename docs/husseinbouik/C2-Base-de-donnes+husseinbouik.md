@@ -2,7 +2,7 @@
 order : 42
 package : husseinbouik
 ---
-## C2-Base de données
+## C2 Base de données
 
 ### imiter
   
