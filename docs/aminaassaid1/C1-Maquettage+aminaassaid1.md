@@ -21,4 +21,10 @@ package : aminaassaid1
 
 ### Transposer
 
+<<<<<<< HEAD
 - Persona
+- UI / UX
+=======
+- Persona 
+-  UI/UX
+>>>>>>> develop
