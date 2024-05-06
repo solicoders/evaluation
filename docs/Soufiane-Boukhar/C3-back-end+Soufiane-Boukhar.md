@@ -8,6 +8,7 @@ package : Soufiane-Boukhar
 ### Imiter
 
 - Parametre type handicap avec le test
+- [type handicap](https://github.com/cnmh/app/tree/211-type-handicap-unit-test)
 
 ### Adapter
 
