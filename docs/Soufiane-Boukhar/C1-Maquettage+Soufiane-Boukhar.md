@@ -40,8 +40,6 @@ Réalisez la conception design thinking dans cnmh pour medecine generale
 - [Conception](https://github.com/soufiane-solicode/conception)
 - [Maquettes](https://github.com/Soufiane-Boukhar/maquettage)
 
-
-
 ### Transposer
 
 - Empathie avec Pole medicale
