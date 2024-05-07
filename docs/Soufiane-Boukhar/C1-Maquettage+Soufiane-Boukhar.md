@@ -2,6 +2,9 @@
 order : 51
 package : Soufiane-Boukhar
 ---
+
+# Soufiane Boukhar 
+
 ## C1-Maquettage
 
 ### Imiter
@@ -19,6 +22,26 @@ package : Soufiane-Boukhar
 - [Rapport d'idéation](https://cnmh.github.io/besoin/ideation/rapport.html)
 - [Présentation d'idéation](https://cnmh.github.io/besoin/ideation/presentation.html#/)
  
+### Adapter
+
+Réalisez la conception design thinking dans cnmh pour medecine generale
+
+- Question 1 : Carte d’empathie - 1 pts
+- Question 2 : Définir le problème  - 1 pts
+- Question 3 : Idéation
+- Rédaction de l’idéation en format texte  -1pts
+- Création de diagramme de cas d’utilisation - 4pts
+- Question 4 : Prototype 
+- Création des maquette en HTML et CSS - 5pts
+- Création de diagramme de classe - 5 pts
+- Question 5 : Organisation de rapport et présentation - 3pts
+- [Besoin](https://github.com/Soufiane-Boukhar/besoin)
+- [Analyse](https://github.com/Soufiane-Boukhar/analyse)
+- [Conception](https://github.com/soufiane-solicode/conception)
+- [Maquettes](https://github.com/Soufiane-Boukhar/maquettage)
+
+
+
 ### Transposer
 
 - Empathie avec Pole medicale
