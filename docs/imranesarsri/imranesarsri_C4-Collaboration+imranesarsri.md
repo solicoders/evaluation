@@ -9,6 +9,8 @@ package : imranesarsri
 - Maquette package ordre de mission: Gestion personnels
 
 - [Issue](https://github.com/solicoders/gestion-personnels/issues/12)
+- [Rapport](https://solicoders.github.io/gestion-personnels/documentation/)
+- [Presentation](https://solicoders.github.io/gestion-personnels/documentation/presentation.html#/)
 
 ### Adapter :
 - Élaboration de tableaux de ordre de mission pour chaque tâche (issues), avec indication de leur état d'avancement: Gestion personnels
