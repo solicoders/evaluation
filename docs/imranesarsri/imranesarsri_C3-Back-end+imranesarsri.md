@@ -16,6 +16,7 @@ package : imranesarsri
 
 - [Issue](https://github.com/solicoders/gestion-personnels/issues/99)
 - [Branch](https://github.com/solicoders/gestion-personnels/tree/99-gestionparametres_specialitefrontend)
+- [Rapport](https://solicoders.github.io/gestion-personnels/documentation/GestionParametres/)
 
 ### Adapter :
 - Développer interfaces paramètre Specialite: Gestion personnels
