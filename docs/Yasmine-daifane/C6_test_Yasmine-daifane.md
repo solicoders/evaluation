@@ -1,22 +1,24 @@
+---
+order : 63
+package : Yasmine-daifane
+---
+
 ## C6-Test
 
-## Niveau imiter
+### Imiter
   
--  Travail à faire 1 :
-     - Prototype : le test pour l'utilisateur 
+  - Prototype : le test pour l'utilisateur 
   
-  
-- Réference 
-    - [Issue Autorisation utilisateur backend ](https://github.com/labs-web/prototype/issues/41)
+  - [Issue Autorisation utilisateur backend ](https://github.com/labs-web/prototype/issues/41)
 
-## Niveau Adapter 
- - Travail à faire 2 :
+### Adapter 
+
   
   -   fair le test pour  Validation de Brief    
 
-## Niveau Transposer
+### Transposer
 
-- Travail à faire 3 :
+
   
 
 

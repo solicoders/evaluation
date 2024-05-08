@@ -1,39 +1,28 @@
-# C3-Back end aminaassaid
+---
+order : 13
+package : aminaassaid1
+---
+## C3-Back end
 
-## Travail à fairer-
-
-## Niveau imiter
-
-
-### Travail à faire
+### Imiter
 
 - Back-end Prototye : gestion action
 
-### Livrable
-
 - [Back-end gestion action](https://github.com/labs-web/prototype/issues/191)
 
-
-  
-## Niveau adapter
-
-
-
-### Travail à faire
+### Adapter
 
 - Back-end SoliLMS : Gestion compétences 
 
-### Livrable
-
 - [Back-end Gestion compétences](https://github.com/solicoders/soli-lms/issues/79)
 
-## Niveau Transposer
-
-### Travail à faire
+### Transposer
 
 
 
-### Livrable
+
+
+
 
 
 

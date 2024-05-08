@@ -3,20 +3,16 @@ layout: default
 order: 1
 ---
 
-{% assign pages = site.pages | sort: "order" %}
+
+{% assign pages = site.pages | sort: "package" | sort: "order" %}
 {% for page in pages %}
-{% if page.url != "/feed.xml" 
-and page.url != "/assets/css/style.css" 
-and  page.url != "/"  
-and page.url != "/presentation.html" %}
+ {% if page.chapitre or page.package %}
 
-<!-- page.content | markdownify -->
-{{page.content }}
+<div class="package_name">
+{{- page.package | markdownify -}}
+</div>
 
-{% endif %}
+    {{- page.content | markdownify -}}
+  {% endif %}
 {% endfor %}
-
-
-
- 
  
