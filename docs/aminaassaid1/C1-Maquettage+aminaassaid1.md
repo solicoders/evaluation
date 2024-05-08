@@ -28,7 +28,7 @@ Création de diagramme de cas d’utilisation - 4pts
 Question 4 : Prototype 
 Création des maquette en HTML et CSS - 5pts
 Création de diagramme de classe - 5 pts
-Question 5 : Organisation de rapport et présentation - 3pts
+Question 5 : Organisation de rapport et présentation - 3pts 
 
 - [Rapport ](https://aminaassaid1.github.io/soli-lms/documentation/GestionCompetences/)
 - [Présentation ](https://aminaassaid1.github.io/soli-lms/documentation/GestionCompetences/presentation.html#/)
