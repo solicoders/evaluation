@@ -12,10 +12,9 @@ package : Soufiane-Boukhar
 
 ### Adapter
 
-- Ajouter entretien social en utilisant repositories
-- Ajouter consultation en utilisant repositories
-- [Entretien social](https://github.com/cnmh/app/tree/develop/app/Repositories/EntretienSocial)
-- [Consultation](https://github.com/cnmh/app/tree/develop/app/Repositories/Consultation)
+- Crud projet
+- fix search poject
+- [Crud Projet](https://github.com/labs-web/lab_crud/tree/12-crud-projet)
 
 ### Transposer 
 
