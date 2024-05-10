@@ -7,8 +7,8 @@ package : ADNANLH
 
 ### Imiter
 
-- Prototype : int de Gestion des Controllers  
-- [Issue Controllers backend ](https://github.com/labs-web/prototype/issues/195)
+- Prototype : CRUD de Gestion d'autoformation
+- [gestion autoformation backend ](https://github.com/solicoders/soli-lms/issues/181)
 
 ### Adapter 
 
