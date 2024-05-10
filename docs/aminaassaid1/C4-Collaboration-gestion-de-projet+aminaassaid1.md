@@ -1,5 +1,5 @@
 ---
-order : 4
+order : 14
 package : aminaassaid1
 ---
 ## C4-Collaboration gestion de projet aminaassaid
@@ -23,9 +23,11 @@ package : aminaassaid1
 
 
 
-- [GestionCompetences_SoliLMS](https://github.com/orgs/solicoders/projects/18)
+- [Table GestionCompetences_SoliLMS](https://github.com/orgs/solicoders/projects/18)
 
 ### Transposer
+
+- Colaboration Gestion SoliLMS
 
 
 
