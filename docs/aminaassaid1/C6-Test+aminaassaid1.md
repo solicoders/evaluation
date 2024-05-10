@@ -8,7 +8,6 @@ package : aminaassaid1
 
 ### Imiter
 
-#
 
 - Unit Test Prototype : Gestion action
 
@@ -18,16 +17,12 @@ package : aminaassaid1
   
 ### Adapter
 
-#
-
 - Unit Test SoliLMS : Gestion Compétences
   
 
 
 
 ### Transposer
-
-#
 
 - Browser Test SoliLMS : Gestion Compétences
 

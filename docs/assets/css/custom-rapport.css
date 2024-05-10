@@ -1,0 +1,19 @@
+.package_name {
+    color: grey;
+    float: right;
+    top: 8px;
+    position: relative;
+
+}
+
+.package_name p {
+    font-size: 16.0pt !important;
+}
+
+h1{
+    padding-bottom: 25pt;
+
+}
+h2,h3,h4,h5,h6{
+    padding-bottom: 2pt;
+}

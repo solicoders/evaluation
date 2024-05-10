@@ -1,16 +1,27 @@
-## C1-Maquettage safaa faiz
+---
+order : 71
+package : safaa1faiz
+---
+# Faiz Safaa
+
+## C1-Maquettage
 
 ### Imiter
-  
--  Travail à faire 1 :
-  
-     - []()
 
-     - [Rapport]()
+- Carte d'empathie avec le formateur pour la gestion des formations
+- Idéation
+- Définir le problème
 
- 
+- [Empathie avec responsable de formation]()
+
+  
 ### Adapter
 
--  Travail à faire 1 :
-   
-   -  
+- Mise à jour de la carte d'empathie
+- Maquette de gestion des formations
+
+
+### Transposer
+
+- Persona 
+
