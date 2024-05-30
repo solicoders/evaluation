@@ -1,6 +1,7 @@
 ---
 order : 41
 package : husseinbouik
+competence: c1
 ---
 
 # Hussein Bouik

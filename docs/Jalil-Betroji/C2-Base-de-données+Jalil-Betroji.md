@@ -3,8 +3,6 @@ order : 32
 package : jalilbetroji
 ---
 
-# Jalil Betroji
-
 ## C2-Base de deonnées
 
 ### Imiter
