@@ -1,6 +1,7 @@
 ---
 order: 1
 package: hamidAchaou
+competence: c1
 ---
 
 # Hamid Achaou
