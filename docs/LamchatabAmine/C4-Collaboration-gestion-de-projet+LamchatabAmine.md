@@ -12,11 +12,13 @@ package : LamchatabAmine
 
 ### Adapter
 
+-  Gerer le tableaux des taches dans le projet gestion-personnels pkg_Absences
 
 ### Transposer
 
+-  Assurer la communication entre les membres du l’équipe lors du développement de projet gestion-personnels.
 
-
+-  Arriver au résultat du projet gestion-personnels
 
 
 
